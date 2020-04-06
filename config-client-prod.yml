@@ -1,4 +1,4 @@
 testconfgi:
-  version: 9.6.2
+  version: 10.6.2
 democonfigclient:
   message: hello spring io
